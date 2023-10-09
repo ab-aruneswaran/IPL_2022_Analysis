@@ -12,7 +12,7 @@ Data Analysis with IPL match-by-match dataset of season 2022.
 ## Analysis
     o	Number of Matches won by each team in overall IPL2022
 
-    o Most of the teams win by defending (batting first) or chasing (batting second)
+    o   Most of the teams win by defending (batting first) or chasing (batting second)
 
     o	Most of the teams prefer ( batting or fielding ) after winning the toss 
 
