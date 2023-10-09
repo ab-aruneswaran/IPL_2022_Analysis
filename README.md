@@ -10,7 +10,7 @@ Data Analysis with IPL match-by-match dataset of season 2022.
 2. All of the scripts are being kept [here](https://github.com/ab-aruneswaran/IPL_2022_Analysis/blob/main/IPL_2022_Analysis.ipynb).
 
 ## Analysis
-    o	Number of Matches won by each team in overall IPL2022
+    o	Number of Matches won by each team in overall IPL 2022
 
     o   Most of the teams win by defending (batting first) or chasing (batting second)
 
