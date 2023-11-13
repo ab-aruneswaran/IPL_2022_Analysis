@@ -6,7 +6,7 @@
 Data Analysis with IPL match-by-match dataset of season 2022.
 
 ### Getting Started
-1. You can access the raw data [here](https://github.com/ab-aruneswaran/IPL_2022_Analysis/blob/main/DataSets) within this repo.
+1. You can access the raw data [here](https://github.com/ab-aruneswaran/IPL_2022_Analysis/tree/main/DataSet) within this repo.
 2. All of the scripts are being kept [here](https://github.com/ab-aruneswaran/IPL_2022_Analysis/blob/main/IPL_2022_Analysis.ipynb).
 
 ## Analysis
