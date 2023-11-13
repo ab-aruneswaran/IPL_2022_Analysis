@@ -69,7 +69,4 @@ match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_ings_score
 68,"May 20,2022","Brabourne Stadium, Mumbai",Chennai,Rajasthan,Group,Chennai,Bat,150,6,151,5,Rajasthan,Wickets,5,R Aswin,Moeen Ali,93,Prashant Solanki,2--20
 69,"May 21,2022","Wankhede Stadium, Mumbai",Delhi,Mumbai,Group,Mumbai,Field,159,7,160,5,Mumbai,Wickets,5,Jasprit Bumrah,Ishan Kishan,48,Jasprit Bumrah,3--25
 70,"May 22,2022","Wankhede Stadium, Mumbai",Hyderabad,Punjab,Group,Hyderabad,Bat,157,8,160,5,Punjab,Wickets,5,Harpreet Brar,Liam Livingstone,49,Harpreet Brar,3--26
-71,"May 24,2022","Eden Gardens, Kolkata",Gujarat,Rajasthan,Playoff,Gujarat,Field,188,6,191,3,Gujarat,Wickets,7,David Miller,Jos Buttler,89,Hardik Pandya,1--14
-72,"May 25,2022","Eden Gardens, Kolkata",Banglore,Lucknow,Playoff,Lucknow,Field,207,4,193,6,Banglore,Runs,14,Rajat Patidar,Rajat Patidar,112,Josh Hazlewood,3--43
-73,"May 27,2022","Narendra Modi Stadium, Ahmedabad",Banglore,Rajasthan,Playoff,Rajasthan,Field,157,8,161,3,Rajasthan,Wickets,7,Jos Buttler,Jos Buttler,106,Prasidh Krishna,3--22
-74,"May 29,2022","Narendra Modi Stadium, Ahmedabad",Gujarat,Rajasthan,Final,Rajasthan,Bat,130,9,133,3,Gujarat,Wickets,7,Hardik Pandya,Shubman Gill,45,Hardik Pandya,3--17
+71,"May 24,2022","Eden Gardens, Kolkata",Gujarat,Rajasthan,Group,Gujarat,Field,188,6,191,3,Gujarat,Wickets,7,,Jos Buttler,89,Hardik Pandya,1--14
